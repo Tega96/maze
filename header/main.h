@@ -6,15 +6,16 @@
 #include <SDL2/SDL_image.h>
 #include <stdint.h>
 #include <math.h>
-#include <graphics.h>
-#include <map.h>
-#include <player.h>
-#include <ray.h>
-#include <sprite.h>
-#include <textures.h>
-#include <upng.h>
-#include <utils.h>
-#include <wall.h>
+#include <stdbool.h>
+#include "graphics.h"
+#include "map.h"
+#include "player.h"
+#include "ray.h"
+#include "sprite.h"
+#include "textures.h"
+#include "upng.h"
+#include "utils.h"
+#include "wall.h"
 
 
 
